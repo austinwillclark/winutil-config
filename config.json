@@ -1,0 +1,85 @@
+{
+  "WPFInstall": [
+    "WPFInstallterminal",
+    "WPFInstallvscode",
+    "WPFInstallubisoft",
+    "WPFInstallsteam",
+    "WPFInstallpowertoys",
+    "WPFInstallpowershell",
+    "WPFInstalladobe",
+    "WPFInstallnvclean",
+    "WPFInstallventoy",
+    "WPFInstalldiscord",
+    "WPFInstallspotify",
+    "WPFInstallfirefox"
+  ],
+  "Install": [
+    {
+      "winget": "Microsoft.WindowsTerminal",
+      "choco": "microsoft-windows-terminal"
+    },
+    {
+      "winget": "Microsoft.VisualStudioCode",
+      "choco": "vscode"
+    },
+    {
+      "winget": "Ubisoft.Connect",
+      "choco": "ubisoft-connect"
+    },
+    {
+      "winget": "Valve.Steam",
+      "choco": "steam-client"
+    },
+    {
+      "winget": "Microsoft.PowerToys",
+      "choco": "powertoys"
+    },
+    {
+      "winget": "Microsoft.PowerShell",
+      "choco": "powershell-core"
+    },
+    {
+      "winget": "Adobe.Acrobat.Reader.64-bit",
+      "choco": "adobereader"
+    },
+    {
+      "winget": "TechPowerUp.NVCleanstall",
+      "choco": "na"
+    },
+    {
+      "winget": "Ventoy.Ventoy",
+      "choco": "ventoy"
+    },
+    {
+      "winget": "Discord.Discord",
+      "choco": "discord"
+    },
+    {
+      "winget": "Spotify.Spotify",
+      "choco": "spotify"
+    },
+    {
+      "winget": "Mozilla.Firefox",
+      "choco": "firefox"
+    }
+  ],
+  "WPFTweaks": [
+    "WPFTweaksRestorePoint",
+    "WPFTweaksAH",
+    "WPFTweaksTele",
+    "WPFTweaksEndTaskOnTaskbar",
+    "WPFTweaksHiber",
+    "WPFTweaksDiskCleanup",
+    "WPFTweaksDeleteTempFiles",
+    "WPFTweaksDisableExplorerAutoDiscovery",
+    "WPFTweaksPowershell7Tele",
+    "WPFTweaksServices",
+    "WPFTweaksDVR",
+    "WPFTweaksLoc",
+    "WPFTweaksConsumerFeatures",
+    "WPFTweaksWifi",
+    "WPFTweaksHome",
+    "WPFTweaksStorage"
+  ],
+  "WPFFeature": []
+}
