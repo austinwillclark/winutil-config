@@ -1,37 +1,67 @@
 {
-  "WPFInstall": [
-    "WPFInstallsteam",
-    "WPFInstallpowertoys",
-    "WPFInstallnvclean",
-    "WPFInstallventoy",
-    "WPFInstalldiscord",
-    "WPFInstallfirefox"
+"Install":  [
+  {
+      "winget":  "Microsoft.VisualStudioCode",
+      "choco":  "vscode"
+  },
+  {
+      "winget":  "Microsoft.PowerShell",
+      "choco":  "powershell-core"
+  },
+  {
+      "winget":  "Discord.Discord",
+      "choco":  "discord"
+  },
+  {
+      "winget":  "Microsoft.WindowsTerminal",
+      "choco":  "microsoft-windows-terminal"
+  },
+  {
+      "winget":  "Adobe.Acrobat.Reader.64-bit",
+      "choco":  "adobereader"
+  },
+  {
+      "winget":  "Ventoy.Ventoy",
+      "choco":  "ventoy"
+  },
+  {
+      "winget":  "Microsoft.PowerToys",
+      "choco":  "powertoys"
+  },
+  {
+      "winget":  "Valve.Steam",
+      "choco":  "steam-client"
+  },
+  {
+      "winget":  "Mozilla.Firefox",
+      "choco":  "firefox"
+  },
+  {
+      "winget":  "Rem0o.FanControl",
+      "choco":  "na"
+  },
+  {
+      "winget":  "Microsoft.Edge",
+      "choco":  "microsoft-edge"
+  },
+  {
+      "winget":  "TechPowerUp.NVCleanstall",
+      "choco":  "na"
+  }
   ],
-  "Install": [
-    {
-      "winget": "Valve.Steam",
-      "choco": "steam-client"
-    },
-    {
-      "winget": "Microsoft.PowerToys",
-      "choco": "powertoys"
-    },
-    {
-      "winget": "TechPowerUp.NVCleanstall",
-      "choco": "na"
-    },
-    {
-      "winget": "Ventoy.Ventoy",
-      "choco": "ventoy"
-    },
-    {
-      "winget": "Discord.Discord",
-      "choco": "discord"
-    },
-    {
-      "winget": "Mozilla.Firefox",
-      "choco": "firefox"
-    }
+  "WPFInstall":  [
+     "WPFInstallvscode",
+     "WPFInstallpowershell",
+     "WPFInstalldiscord",
+     "WPFInstallterminal",
+     "WPFInstalladobe",
+     "WPFInstallventoy",
+     "WPFInstallpowertoys",
+     "WPFInstallsteam",
+     "WPFInstallfirefox",
+     "WPFInstallfancontrol",
+     "WPFInstalledge",
+     "WPFInstallnvclean"
   ],
   "WPFTweaks": [
     "WPFTweaksRestorePoint",
